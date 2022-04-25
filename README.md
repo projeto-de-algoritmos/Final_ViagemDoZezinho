@@ -12,6 +12,12 @@
 ## Sobre 
 O objetivo do nosso projeto é auxiliar Zezinho e sua família em uma viagem. Encontramos o menor caminho com o algoritmo de Dijkstra (Grafos 2), guardamos os brinquedos do Zezinho no cofre com o algoritmo de KnapSack (Programação Dinâmica) e identificamos os 2 pontos turísticos mais próximos para que eles visitem (Dividir e Conquistar).
 
+### Apresentação
+
+Para acessar a apresentação, basta acessar este link: <a href="https://youtu.be/-7OnOz_IYYA" target="_blank">https://youtu.be/-7OnOz_IYYA</a>.
+
+Você pode baixar também a apresentação aqui no nosso repositório.
+
 ## Screenshots
 
 <div align="center">
