@@ -14,7 +14,7 @@ O objetivo do nosso projeto é auxiliar Zezinho e sua família em uma viagem. En
 
 ### Apresentação
 
-Para acessar a apresentação, basta acessar este link: <a href="https://youtu.be/-7OnOz_IYYA" target="_blank">https://youtu.be/-7OnOz_IYYA</a>.
+Para acessar a apresentação, basta acessar este <a href="https://youtu.be/-7OnOz_IYYA" target="_blank">link</a>.
 
 Você pode baixar também a apresentação aqui no nosso repositório.
 
